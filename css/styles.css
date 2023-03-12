@@ -4,6 +4,13 @@
 
 .author{
     color: red;
+    /* font-size: 12px; */
+}
+
+p.author{
     font-size: 12px;
 }
 
+h3.author{
+    color: green;
+}
